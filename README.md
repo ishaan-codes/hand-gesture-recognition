@@ -3,6 +3,8 @@
 ## Overview
 This project implements a robust hand gesture recognition system for American Sign Language (ASL) alphabet using deep learning. The system extracts hand landmarks using MediaPipe, processes them through a 1D convolutional neural network, and classifies 26 ASL letters (A-Z) with high accuracy.
 
+## Dataset Link: https://data.mendeley.com/datasets/8fmvr9m98w/1
+
 ## Key Features
 - MediaPipe Hand Tracking: Real-time hand landmark extraction
 - 1D Convolutional Neural Network: Specialized architecture for landmark data
