@@ -5,7 +5,6 @@ from tensorflow import keras
 from tensorflow.python.keras import layers as tfl
 from tensorflow.python.keras.layers import BatchNormalization
 from PIL import Image
-from my_utils import *
 from tensorflow.python.keras.models import *
 
 def load_h5_dataset(file_path):
